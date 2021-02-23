@@ -4,5 +4,5 @@ Gruppearbejde
 # Log af leg med hs100.sh findes her
 View the recording at:
 
-    https://asciinema.org/a/YleGF8GHOaxxGPhQzm8PqjUoy
+    https://asciinema.org/a/YleGF8GHOaxxGPhQzm8PqjUoy?speed=1.8
 
