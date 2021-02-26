@@ -1,0 +1,209 @@
+192.168.8.101	ON
+{
+    "emeter": {
+        "get_realtime": {
+            "current_ma": 0,
+            "err_code": 0,
+            "power_mw": 0,
+            "total_wh": 0,
+            "voltage_mv": 0
+        }
+    }
+}
+{
+    "system": {
+        "get_sysinfo": {
+            "active_mode": "none",
+            "alias": "DF",
+            "dev_name": "Smart Wi-Fi Plug With Energy Monitoring",
+            "deviceId": "8006D7F9E717FC8CEE36B037E6C00DC91ADF85D0",
+            "err_code": 0,
+            "feature": "TIM:ENE",
+            "fwId": "00000000000000000000000000000000",
+            "hwId": "044A516EE63C875F9458DA25C2CCC5A0",
+            "hw_ver": "2.0",
+            "icon_hash": "",
+            "latitude_i": 620058,
+            "led_off": 0,
+            "longitude_i": -67727,
+            "mac": "B0:BE:76:D0:06:DF",
+            "model": "HS110(EU)",
+            "next_action": {
+                "type": -1
+            },
+            "oemId": "1998A14DAA86E4E001FD7CAF42868B5E",
+            "on_time": 1519,
+            "relay_state": 1,
+            "rssi": -47,
+            "sw_ver": "1.5.6 Build 191125 Rel.083657",
+            "type": "IOT.SMARTPLUGSWITCH",
+            "updating": 0
+        }
+    }
+}
+192.168.8.102	ON
+{
+    "emeter": {
+        "get_realtime": {
+            "current_ma": 42,
+            "err_code": 0,
+            "power_mw": 0,
+            "total_wh": 3,
+            "voltage_mv": 236020
+        }
+    }
+}
+{
+    "system": {
+        "get_sysinfo": {
+            "active_mode": "none",
+            "alias": "CA",
+            "dev_name": "Smart Wi-Fi Plug With Energy Monitoring",
+            "deviceId": "8006FE1F1981FF0A98C5DD51DFA34B051A08B4D3",
+            "err_code": 0,
+            "feature": "TIM:ENE",
+            "fwId": "00000000000000000000000000000000",
+            "hwId": "044A516EE63C875F9458DA25C2CCC5A0",
+            "hw_ver": "2.0",
+            "icon_hash": "",
+            "latitude_i": 620058,
+            "led_off": 0,
+            "longitude_i": -67727,
+            "mac": "AC:84:C6:5D:8C:CA",
+            "model": "HS110(EU)",
+            "next_action": {
+                "type": -1
+            },
+            "oemId": "1998A14DAA86E4E001FD7CAF42868B5E",
+            "on_time": 1405,
+            "relay_state": 1,
+            "rssi": -53,
+            "sw_ver": "1.5.6 Build 191125 Rel.083657",
+            "type": "IOT.SMARTPLUGSWITCH",
+            "updating": 0
+        }
+    }
+}
+192.168.8.103	ON
+{
+    "emeter": {
+        "get_realtime": {
+            "current": 0.136963,
+            "err_code": 0,
+            "power": 15.16565,
+            "total": 0.022,
+            "voltage": 236.135407
+        }
+    }
+}
+{
+    "system": {
+        "get_sysinfo": {
+            "active_mode": "none",
+            "alias": "7E",
+            "dev_name": "Wi-Fi Smart Plug With Energy Monitoring",
+            "deviceId": "8006C9A207EEBC644D9B1F3158D143D6190F886C",
+            "err_code": 0,
+            "feature": "TIM:ENE",
+            "fwId": "00000000000000000000000000000000",
+            "hwId": "45E29DA8382494D2E82688B52A0B2EB5",
+            "hw_ver": "1.0",
+            "icon_hash": "",
+            "latitude": 62.005866,
+            "led_off": 0,
+            "longitude": -6.77277,
+            "mac": "70:4F:57:58:C1:7E",
+            "model": "HS110(EU)",
+            "oemId": "3D341ECE302C0642C99E31CE2430544B",
+            "on_time": 1529,
+            "relay_state": 1,
+            "rssi": -45,
+            "sw_ver": "1.2.6 Build 200727 Rel.120821",
+            "type": "IOT.SMARTPLUGSWITCH",
+            "updating": 0
+        }
+    }
+}
+192.168.8.104	ON
+{
+    "emeter": {
+        "get_realtime": {
+            "current_ma": 11,
+            "err_code": 0,
+            "power_mw": 0,
+            "total_wh": 1,
+            "voltage_mv": 236290
+        }
+    }
+}
+{
+    "system": {
+        "get_sysinfo": {
+            "active_mode": "none",
+            "alias": "BE",
+            "dev_name": "Smart Wi-Fi Plug With Energy Monitoring",
+            "deviceId": "800640399EF9C73042925145D4DA61CA1B89116C",
+            "err_code": 0,
+            "feature": "TIM:ENE",
+            "fwId": "00000000000000000000000000000000",
+            "hwId": "044A516EE63C875F9458DA25C2CCC5A0",
+            "hw_ver": "2.0",
+            "icon_hash": "",
+            "latitude_i": 620058,
+            "led_off": 0,
+            "longitude_i": -67727,
+            "mac": "98:DA:C4:08:76:BE",
+            "model": "HS110(EU)",
+            "next_action": {
+                "type": -1
+            },
+            "oemId": "1998A14DAA86E4E001FD7CAF42868B5E",
+            "on_time": 1534,
+            "relay_state": 1,
+            "rssi": -56,
+            "sw_ver": "1.5.6 Build 191125 Rel.083657",
+            "type": "IOT.SMARTPLUGSWITCH",
+            "updating": 0
+        }
+    }
+}
+192.168.8.123	ON
+{
+    "emeter": {
+        "get_realtime": {
+            "current": 0.012305,
+            "err_code": 0,
+            "power": 0,
+            "total": 0.006,
+            "voltage": 236.363665
+        }
+    }
+}
+{
+    "system": {
+        "get_sysinfo": {
+            "active_mode": "none",
+            "alias": "F6",
+            "dev_name": "Wi-Fi Smart Plug With Energy Monitoring",
+            "deviceId": "8006B7B49C3E9E47D5BE3C0F5D9E93AE190C7052",
+            "err_code": 0,
+            "feature": "TIM:ENE",
+            "fwId": "00000000000000000000000000000000",
+            "hwId": "45E29DA8382494D2E82688B52A0B2EB5",
+            "hw_ver": "1.0",
+            "icon_hash": "",
+            "latitude": 0,
+            "led_off": 0,
+            "longitude": 0,
+            "mac": "70:4F:57:51:C6:F6",
+            "model": "HS110(EU)",
+            "oemId": "3D341ECE302C0642C99E31CE2430544B",
+            "on_time": 1538,
+            "relay_state": 1,
+            "rssi": -49,
+            "sw_ver": "1.2.5 Build 171213 Rel.101523",
+            "type": "IOT.SMARTPLUGSWITCH",
+            "updating": 0
+        }
+    }
+}

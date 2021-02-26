@@ -216,7 +216,13 @@ cmd_discover(){
     # if we can't write this to /etc/hosts, echo what we found and quit
     if ! [ -w /etc/hosts ]
     then
-        echo HS100 plugs found: ${hs100ip[@]}
+	    # Fjernet for at få output med én ip pr. linje
+	    #echo -e HS100 plugs found:'\n'${hs100ip[@]}
+	    #echo ${hs100ip[@]}
+	    for i in ${hs100ip[@]}
+	    do
+		    echo "$i"
+	    done
         return 0
     fi
 
