@@ -10,6 +10,7 @@ Bash-scriptet simple_plug_check.sh bruges ikke længere (det var test).
 Filen plugIPlist.txt er en midlertidig fil. Den findes fordi jeg ikke er dygtig nok til bash.
 
 ## Struktur
+```
 .
 ├── hs100
 │   ├── hosts
@@ -24,6 +25,7 @@ Filen plugIPlist.txt er en midlertidig fil. Den findes fordi jeg ikke er dygtig 
 ├── README.md
 ├── simple_plug_check.sh
 └── updateJSON.sh
+```
 
 # Log af leg med hs100.sh findes her
 View the recording at:
