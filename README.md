@@ -31,5 +31,3 @@ Filen plugIPlist.txt er en midlertidig fil. Den findes fordi jeg ikke er dygtig 
 View the recording at:
 
     https://asciinema.org/a/YleGF8GHOaxxGPhQzm8PqjUoy?speed=1.8
-
->>>>>>> 340cca091f58394665a608c633d55c2cf8e82a76
