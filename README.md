@@ -24,3 +24,10 @@ Filen plugIPlist.txt er en midlertidig fil. Den findes fordi jeg ikke er dygtig 
 ├── README.md
 ├── simple_plug_check.sh
 └── updateJSON.sh
+
+# Log af leg med hs100.sh findes her
+View the recording at:
+
+    https://asciinema.org/a/YleGF8GHOaxxGPhQzm8PqjUoy?speed=1.8
+
+>>>>>>> 340cca091f58394665a608c633d55c2cf8e82a76
