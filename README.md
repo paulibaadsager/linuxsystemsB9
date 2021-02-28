@@ -25,9 +25,12 @@ Filen plugIPlist.txt er en midlertidig fil. Den findes fordi jeg ikke er dygtig 
 ├── simple_plug_check.sh
 └── updateJSON.sh
 
+# Docker
+Docker image til at køre en json-server. Skriv fx.
+`$ sudo docker run -p 8080:80 -v /home/pauli/linuxsystemsB9/testdb.json:/data/db.json clue/json-server`
+
 # Log af leg med hs100.sh findes her
 View the recording at:
 
     https://asciinema.org/a/YleGF8GHOaxxGPhQzm8PqjUoy?speed=1.8
 
->>>>>>> 340cca091f58394665a608c633d55c2cf8e82a76
