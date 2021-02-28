@@ -10,6 +10,7 @@ Bash-scriptet simple_plug_check.sh bruges ikke længere (det var test).
 Filen plugIPlist.txt er en midlertidig fil. Den findes fordi jeg ikke er dygtig nok til bash.
 
 ## Struktur
+```
 .
 ├── hs100
 │   ├── hosts
@@ -24,6 +25,7 @@ Filen plugIPlist.txt er en midlertidig fil. Den findes fordi jeg ikke er dygtig 
 ├── README.md
 ├── simple_plug_check.sh
 └── updateJSON.sh
+```
 
 # Docker
 Docker image til at køre en json-server. Skriv fx.
@@ -33,4 +35,3 @@ Docker image til at køre en json-server. Skriv fx.
 View the recording at:
 
     https://asciinema.org/a/YleGF8GHOaxxGPhQzm8PqjUoy?speed=1.8
-
