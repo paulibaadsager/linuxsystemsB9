@@ -1,0 +1,8 @@
+version: "3.3"
+services:
+  my_json-server:
+    build: .
+    ports:
+      - "8039:80"
+    volumes:
+      - /home/pauli/linuxsystemsB9/testdb.json:/data/db.json
