@@ -1,6 +1,23 @@
 # linuxsystemsB9
 Gruppearbejde
 
+## Python, flask og python-kasa
+python-kasa kan "snakke" med TP-plug. Python-kasa kræver python3.8. Installer python3.8 vha.
+```
+sudo apt update
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:deadsnakes/ppa
+```
+Lav virtuelt python environment med og gå ind i det.
+``` 
+virtualenv -p /usr/bin/python3.8 venv
+python3.8 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+``` 
+Start service med `python app.pyi`. Tjek at den svare ved at skrive `curl -X POST localhost:5000/deactivate`.
+
+# Nedenstående er gammelt og skal nok droppes...
 ## Om filerne
 Bash-scriptet hs100/hs100.sh tager parametre som 'on', 'off', 'check', 'emeter' og 'status'.
 
