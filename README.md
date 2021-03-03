@@ -2,6 +2,8 @@
 Gruppearbejde
 
 ## Python, flask og python-kasa
+Information om python-kasa findes her: <https://python-kasa.readthedocs.io/en/latest/smartplug.html>
+
 python-kasa kan "snakke" med TP-plug. Python-kasa kræver python3.8. Installer python3.8 vha.
 ```
 sudo apt update
